@@ -95,7 +95,7 @@ Easy-to-extend for time-series or other metrics
 
 Aayush Dhote – Trainee Data Scientist
 
-GitHub: 
+GitHub: aayushdhote
 
 
 
