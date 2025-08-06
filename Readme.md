@@ -92,7 +92,7 @@ Easy-to-extend for time-series or other metrics
 
 👨‍💻 Author
 
-Aayush Dhote – Trainee Data Scientist
+Aayush Dhote – Data Scientist Trainee
 
 GitHub: aayushdhote
 
