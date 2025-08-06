@@ -47,8 +47,7 @@ Total deaths by country
 
 New deaths by country
 
-All graphs arranged in a dashboard-style layout
-
+Graphs arranged in a dashboard-style layout
 
 
 ---
